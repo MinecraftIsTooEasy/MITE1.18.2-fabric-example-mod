@@ -1,4 +1,4 @@
-# MITE Fabric Example Mod
+# MITE1.18.2 Fabric Example Mod
 
 ## Setup
 
